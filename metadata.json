@@ -1,0 +1,9 @@
+
+{
+  "name": "The Bourbon Vault",
+  "description": "An ultra-secure, premium collaborative workspace featuring aged-to-perfection aesthetics and distilled productivity tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
